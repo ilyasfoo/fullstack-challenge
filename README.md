@@ -22,6 +22,8 @@ The following design, however does not have to be exactly accurate
 ### Notes:
 Fonts used: [https://fonts.google.com/specimen/Sofia?selection.family=Quicksand:400,500,700|Sofia](https://fonts.google.com/specimen/Sofia?selection.family=Quicksand:400,500,700|Sofia)
 
+All assets can be found here: [https://github.com/ilyasfoo/fullstack-challenge/tree/master/assets](https://github.com/ilyasfoo/fullstack-challenge/tree/master/assets)
+
 Background
 - background-color: `#333333`
 
@@ -97,4 +99,4 @@ Length of input characters are ranged from 0 to 5000
 
 Submission
 -------------
-Create a publicly hosted git repository and send the link to us
+Create a publicly hosted git repository with your source code and send the link to us
