@@ -8,7 +8,7 @@ Frontend challenge
 
 ### What you need to build:
 
-The following design, however does not have to be exactly accurate
+The following design in HTML/CSS/JS, however does not have to be 100% accurate
 
 ![Design](https://github.com/ilyasfoo/fullstack-challenge/blob/master/readme-images/result.png "Design")
 
