@@ -54,7 +54,8 @@ Backend challenge
 -------------
 
 ### Requirements:
-You need to use the following as a minimum: Laravel Framework utilizing at least `Routes`, `API/Views`, and `Controller`
+- You need to use the following as a minimum: Laravel Framework utilizing at least `Routes`, `API/Views`, and `Controller`
+- Unit tests
 
 ### What you need to build:
 An API to produce output from the given input, as explained below.
