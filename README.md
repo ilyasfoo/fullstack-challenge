@@ -16,6 +16,7 @@ The following design in HTML/CSS/JS, however does not have to be 100% accurate
 - Vuejs/react/angular or similar frameworks
 - SASS/LESS or similar CSS preprocessors
 - Flexbox
+- JS promises
 - Responsive media queries for different screen sizes
 - Any animations or extra effects will be added on creativity bonus
 
