@@ -61,6 +61,9 @@ Backend challenge
 ### What you need to build:
 An API to produce output from the given input, as explained below.
 
+### Bonus points if u can:
+Articulate your design pattern choices (or justify if lack thereof)
+
 Types of cats
 -------------
 
